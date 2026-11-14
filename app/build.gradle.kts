@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.rivio.coletor"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "br.rivio.coletor"
